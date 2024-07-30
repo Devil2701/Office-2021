@@ -1,0 +1,8 @@
+Run CMD as admin
+:- cd\
+:- cd C:\Program Files\Microsoft Office\Office16
+:- cscript ospp.vbs /sethst:kms.03k.org
+:- cscript ospp.vbs /act
+
+-------------------------------------------------------------------------
+ This Process only work for MS office-365 2021 
